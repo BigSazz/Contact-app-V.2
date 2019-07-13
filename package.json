@@ -1,0 +1,23 @@
+{
+  "name": "quick-save",
+  "version": "1.0.0",
+  "description": "Quick way to save contacts on the web",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Oviawe Osaze",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.6.4"
+  },
+  "devDependencies": {
+    "concurrently": "^4.1.1"
+  }
+}
