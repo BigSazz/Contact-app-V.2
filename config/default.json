@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://admin:admin1234@quicksave-qpbpe.mongodb.net/test?retryWrites=true&w=majority"
+}
